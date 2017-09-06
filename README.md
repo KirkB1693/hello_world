@@ -1,2 +1,5 @@
 # hello_world
-Just another repository
+
+Hi!
+
+Just learning a bit about coding for android.
